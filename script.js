@@ -38,7 +38,7 @@ function showemployee() {
     array.forEach((element, index) => {
         m += `<div class="box" id=${index}>
             <div id="employeebox">
-            <p id="eid">${index + 1}</p>
+            <p id="eid">${index + 1}.</p>
             <p id="ename">name: ${element.name}</p>
             <p id="eprof">Profession: ${element.prof}</p>
             <p id="eage">Age: ${element.age}</p>
