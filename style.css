@@ -25,10 +25,11 @@ input{
 
 .button{
     margin-top: 25px;
+    width: 200px;
 }
 
 #adduser{
-    height: 100px;
+    height: 200px;
 }
 
 #adduser{
